@@ -74,14 +74,7 @@ To set up the environment, follow these steps:
     ```bash
     git clone https://github.com/d1vv1/Stock-Market-Price-Prediction.git
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd stock-market-prediction
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. Alternatively, download the .ipynb files onto your machine.
 
 ## Usage
 
@@ -89,10 +82,7 @@ To set up the environment, follow these steps:
     ```bash
     jupyter notebook
     ```
-2. Use the scripts in the `src` directory to train models or make predictions:
-    ```bash
-    python src/train_model.py
-    ```
+2. Import the files `ARIMA.ipynb `, `LSTM.ipynb`, `TCN.ipynb`, and `ensemble.ipynb` into your jupyter notebook terminal, and run the files
 
 ## Results
 
