@@ -72,7 +72,7 @@ To set up the environment, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/d1vv1/stock-market-prediction.git
+    git clone https://github.com/d1vv1/Stock-Market-Price-Prediction.git
     ```
 2. Navigate to the project directory:
     ```bash
